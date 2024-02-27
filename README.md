@@ -32,6 +32,9 @@ that reflect your timely attendance in class, participation in class activities
 such as stand-up meetings, and participation in the studio discussions on
 Discord. This also includes the assessment of any supporting assignments focused
 on creating, for instance, the visual and audio identity of the podcast.
+Finally, this includes a certification that a learner demonstrated competency of
+the use of the software, like VS Code and GitHub, that supports the operation of
+the podcasting studio.
 - **Show Proposals**: This includes the assessment of six show proposals that
 offer information about the theme of and guest for an episode of a podcast. Each
 show proposal must appear as a file in a GitHub repository that originated from
@@ -53,9 +56,8 @@ the required training for use of the podcasting studio, this includes the
 single-take recording, editing, and engineering of two podcast episodes, the
 final versions of which must be uploaded in `WAV` and `MP3` format to a Google
 Drive.
-- **Podcast Presentation**: This includes an assessment of a final
-presentation given on the day of the final examination, Friday, May 3, 2024 at
-9:00 AM.
+- **Podcast Presentation**: This includes an assessment of a final presentation
+given on the day of the final examination, Friday, May 3, 2024 at 9:00 AM.
 - **Final Grade**: This score is a percentage out of 100%. When this score is
 part of an interim report it may represent an over-estimate of a student's final
 grade because of the fact that it incorporates other over-estimates in one of
