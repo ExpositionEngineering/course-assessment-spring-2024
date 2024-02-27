@@ -1,4 +1,4 @@
-# Overall Course Assessment
+# Overall Learner Assessment
 
 The purpose of this repository is to give you feedback on your overall grade in
 FS 102, Exposition Engineering. Beyond this file, there are no files inside of
