@@ -1,8 +1,8 @@
 # Overall Course Assessment
 
 The purpose of this repository is to give you feedback on your overall grade in
-FS 102, Exposition Engineering. There are no files inside of this repository
-and you do not need to add any files to this repository.
+FS 102, Exposition Engineering. Beyond this file, there are no files inside of
+this repository and you do not need to add any files to this repository.
 
 The course instructor will add overall course assessment reports to either the
 issue tracker or the pull requests tracker in this repository. Students who
@@ -30,7 +30,7 @@ assessments:
 - **Team Participation**: This includes all of the studio participation scores
 that reflect your timely attendance in class, participation in class activities
 such as stand-up meetings, and participation in the studio discussions on
-Discord. This also includes the assessment of any additional assignments focused
+Discord. This also includes the assessment of any supporting assignments focused
 on creating, for instance, the visual and audio identity of the podcast.
 - **Show Proposals**: This includes the assessment of six show proposals that
 offer information about the theme of and guest for an episode of a podcast. Each
