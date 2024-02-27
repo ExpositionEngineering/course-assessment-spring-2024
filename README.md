@@ -4,9 +4,9 @@ The purpose of this repository is to give you feedback on your overall grade in
 FS 102, Exposition Engineering. Beyond this file, there are no files inside of
 this repository and you do not need to add any files to this repository.
 
-The course instructor will add overall course assessment reports to either the
-issue tracker or the pull requests tracker in this repository. Students who
-have questions about their overall assessments are encouraged to
+The course instructor will add overall course assessment reports to the issue
+tracker and/or the pull requests tracker in this repository. Students who have
+questions about their overall assessments are encouraged to
 [schedule](https://www.gregorykapfhammer.com/schedule/) a meeting with the
 course instructor during office hours.
 
