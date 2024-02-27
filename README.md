@@ -20,7 +20,7 @@ during the academic semester.
 | Studio Participation     |  20%       |
 | Show Proposals           |  25%       |
 | Show Outlines            |  25%       |
-| Peer Review Projects     |  10%       |
+| Peer Reviews             |  10%       |
 | Recorded Episodes        |  10%       |
 | Podcast Presentation     |  10%       |
 
@@ -28,19 +28,27 @@ Here are some additional details about the recording and reporting of the course
 assessments:
 
 - **Team Participation**: This includes all of the studio participation scores
-that reflect your timely attendance in class, participation in class
-activities, and participation in studio discussions on Discord.
-- **In-Person Assessments**: When this score is reported before the completion
-of the second in-person assessment, it assumes that a student earned a perfect
-score on the not-yet-completed in-person assessment. This means that this score
-may be an over-estimate of the final grade that a student will earn in this
-category.
-- **Professional Development**: This score is a composite of an individual
-- **Technical Development**: This score is a composite of an individual
-- **Project Development**: All interim reports of this score represent an
+that reflect your timely attendance in class, participation in class activities,
+and participation in studio discussions on Discord. This also includes the
+assessment of any additional assignments focused on creating the visual and
+audio identity of the podcast.
+- **Show Proposals**: This includes the assessment of six show proposals that
+offer information about the theme of and guest for an episode of a podcast.
+- **Show Outlines**: This includes the assessment of six show outlines that
+feature written content for an introduction to both the podcast and the guest, a
+detailed series of questions for the question, and a conclusion to the podcast
+episode.
+- **Peer Reviews**: This includes the assessment of peer reviews that a student
+submits to the pull request (PR) in the GitHub repository of their peer review
+partner. Each student is responsible for creating a list of the PRs that they
+submit to the GitHub repository of their peer review partner so as to facilitate
+the assessment of the completed peer review.
+- **Recorded Episodes**: All interim reports of this score represent an
+- **Podcast Presentation**: This score is a percentage out of 100%. When this
+score is
 - **Final Grade**: This score is a percentage out of 100%. When this score is
-part of an interim report it may represent an over-estimate of a student's
-final grade because of the fact that it incorporates other over-estimates in
-one of its constituent scores. This score weights the constituent scores
-according to the percentages that are provided in the table in this document
-and in the course syllabus.
+part of an interim report it may represent an over-estimate of a student's final
+grade because of the fact that it incorporates other over-estimates in one of
+its constituent scores. This score weights the constituent scores according to
+the percentages that are provided in the table in this document and in the
+course syllabus.
